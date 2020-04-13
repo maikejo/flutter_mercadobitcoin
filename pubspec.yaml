@@ -1,7 +1,6 @@
 name: flutter_mercadobitcoin
 description: Consome serviços do mercadobitcoin api
 version: 0.0.1
-author: Maike Silva <maikejo@gmail.com>
 homepage: https://github.com/maikejo/flutter_mercadobitcoin.git
 
 environment:
